@@ -11,3 +11,5 @@ Code practices I did during my statistics study in Ege University
 | 2026 Spring | Programming with C++ | C++ | [cpp](2026-spring/cpp) |
 | 2026 Spring | Statistical Inference with Computer Applications | R | [statistical-inference](2026-spring/statistical-inference) |
 | 2026 Spring | Algorithms and Data Structures | C | [data-structures-c](2026-spring/data-structures-c) |
+| 2026 Fall | Current Programming Languages | Python | [python](2026-fall/python) |
+| 2026 Fall | Exploratory Data Analysis | MATLAB | [eda-matlab](2026-fall/eda-matlab) |
